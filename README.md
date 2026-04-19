@@ -35,3 +35,4 @@ After launching the application, users can add a new reminder by entering task d
 The project can be enhanced by adding features such as user authentication, cloud storage, mobile application integration, and AI-based smart suggestions. Notifications can be improved by integrating email or SMS services. Voice assistant support can also be implemented to make the system more interactive and user-friendly.
 
 👨‍💻 Author
+Dhayanithi S
